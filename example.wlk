@@ -1,3 +1,6 @@
+object pepita {
+  var energy = 100
+
 object casa { 
     var suciedad 
     var cuidador 
